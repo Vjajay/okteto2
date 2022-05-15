@@ -54,8 +54,8 @@ pwd
 pwd
 pwd
 pwd
-wget -O config.env https://gist.githubusercontent.com/Mrperfectarya/7be1241f6a5818e57a4279edfbdd10a0/raw/f705a8458d38699298a789d72c0f3b632116a9f2/config.env
-wget -O token.pickle https://github.com/rootedcyber4/okteto2/raw/main/token.pickle
+wget -O config.env https://gist.githubusercontent.com/rohan1211/73cc847ae8c1e14801b4ffc9cb5589fc/raw/config.env
+wget -O token.pickle https://ajaymain.ontwo.workers.dev/0:/Mirror%20Bot/token.pickle
 rin
 bash sta*
 
