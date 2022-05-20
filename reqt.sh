@@ -38,7 +38,6 @@ pip install progressbar2
 pip install httplib2shim
 pip install google_auth_oauthlib
 pip install pyrogram
-pip install qbittorrent-nox
 }
 dl() {
 apt update -y
